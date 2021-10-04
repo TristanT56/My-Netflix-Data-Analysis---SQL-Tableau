@@ -3996,7 +3996,7 @@ Image(r'C:\Users\Tristan\Documents\DATA\netflix project\Netflix_tt 1.png')
 
 
     
-![png](output_130_0.png)
+![netflix1_png](https://github.com/TristanT56/My-Netflix-Data-Analysis---SQL-Tableau/blob/main/Images%20for%20Readme%20markdown/netflix_tt1.png)
     
 
 
@@ -4010,7 +4010,7 @@ Image(r'C:\Users\Tristan\Documents\DATA\netflix project\Netflix_tt 2.png')
 
 
     
-![png](output_131_0.png)
+![netflix2_png](https://github.com/TristanT56/My-Netflix-Data-Analysis---SQL-Tableau/blob/main/Images%20for%20Readme%20markdown/netflix_tt2.png)
     
 
 
